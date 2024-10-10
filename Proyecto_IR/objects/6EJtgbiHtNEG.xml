@@ -6,40 +6,16 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[1. Falta de venta online:
-Ausencia de una página web:
- La empresa carece de una plataforma digital para comercializar sus productos, lo que limita su capacidad de llegar a un público más amplio. La venta de camisetas se realiza únicamente de manera presencial, lo que reduce el alcance de la tienda y deja sin atender a clientes potenciales que prefieren comprar por internet.
-Pedidos solo presenciales o telefónicos: Todos los pedidos deben gestionarse de manera presencial o a través de llamadas telefónicas. Esto no solo es ineficiente y consume mucho tiempo, sino que también aumenta el riesgo de errores humanos y la pérdida de oportunidades de venta por clientes que prefieren procesos más rápidos y automatizados.
+    <markdownProperty name="text" category="detail"><![CDATA[1. *Falta de sitio web:*
+ La empresa carece de una plataforma digital para vender sus productos, lo que limita su capacidad de llegar a un público más amplio. La venta de camisetas se realiza únicamente de manera presencial, lo que reduce el alcance de la tienda y deja sin atender a clientes potenciales que prefieren comprar por internet. Otro aspecto a tener en cuenta son las devoluciones y el control de las reservas y pedidos. También requerirían la facilidad para anuncios de eventos y drops en el sitio web 
 
-2. Problemas con la gestión de stock:
-Falta de automatización en el sistema de ventas: 
-La empresa no cuenta con un sistema automatizado que controle el inventario en tiempo real. Esto genera una serie de problemas como:
-Dificultad para gestionar el inventario: Sin un sistema digital que registre automáticamente las ventas y actualice el stock, es complicado saber qué productos están disponibles o agotados.
-Pérdida de ventas: Cuando los clientes llaman o visitan la tienda, la empresa podría no tener información precisa sobre la disponibilidad de ciertos productos, lo que podría resultar en pérdidas de ventas si el cliente se marcha sin realizar la compra.
-Sobrestock o falta de stock: Sin visibilidad clara sobre qué productos tienen en existencia, podrían tener un exceso de algunos artículos y una carencia de otros, lo que afecta negativamente la eficiencia del negocio y aumenta los costos operativos.
+2. *Problemas con la gestión de stock:* 
+La empresa no cuenta con un sistema automatizado que controle el almacén en tiempo real. Es complicado saber qué productos están disponibles o agotados.
 
-3. Reservas y pedidos:
-Incapacidad para realizar reservas online:
- Sin una plataforma en línea que permita a los clientes reservar productos, todo debe hacerse de manera manual a través de llamadas telefónicas. Esto añade complejidad a la gestión de pedidos, ya que:
-Errores en la reserva de productos: Al depender de llamadas telefónicas, es fácil que se pierda o malinterprete información, lo que puede llevar a errores en la preparación de pedidos o en la asignación de stock para las reservas.
-Incapacidad para gestionar múltiples reservas: Cuando hay varios clientes interesados en el mismo producto, sin un sistema automatizado que bloquee las reservas de un artículo, se pueden generar conflictos si más de una persona intenta adquirir el mismo ítem.
+3. *Problemas con la gestión de los empleados:* 
+Los empleados que originalmente estaban contratados para trabajar como dependientes en la tienda física asumen roles adicionales, provocando que algunas tareas se vean mermadas en cuanto a experiencias de usuarios.
 
-4. Impacto en la experiencia del cliente:
-Proceso de compra poco conveniente:
- La ausencia de una tienda online y la dependencia de llamadas telefónicas hacen que el proceso de compra sea más lento e incómodo para los clientes, lo que afecta negativamente la experiencia del usuario y puede disuadir a posibles compradores.
-Limitación de crecimiento: Al no contar con un canal de ventas online ni un sistema automatizado, la empresa está perdiendo oportunidades de crecimiento. Muchos clientes prefieren comprar de manera rápida y sencilla a través de internet, y sin esta opción, es probable que busquen otras tiendas con mejor infraestructura digital.
-
-5. Pérdida de eficiencia operativa:
-Falta de sincronización de datos: 
-Sin un sistema digital, las ventas, el inventario y los pedidos no están conectados, lo que provoca ineficiencias operativas. Los empleados tienen que dedicar tiempo a tareas manuales, como revisar el stock de productos o anotar pedidos, lo que puede generar errores.
-Problemas de comunicación interna: La falta de un sistema centralizado que automatice la actualización de inventarios y ventas puede ocasionar confusión entre los empleados, lo que deriva en una mala gestión del stock y posibles errores en la atención al cliente.
-
-6. Problemas con la gestión de los empleados:
-Desvío de tareas: 
-Los empleados que originalmente estaban contratados para trabajar como dependientes en la tienda física han tenido que asumir tareas adicionales, como gestionar reservas y pedidos a través de llamadas telefónicas. Este desvío de responsabilidades afecta la eficiencia en la atención a los clientes que visitan la tienda.
-Falta de personal para atención directa: Debido a que parte del equipo está ocupado atendiendo llamadas y gestionando manualmente reservas, hay menos empleados disponibles para atender a los clientes que llegan al local. Esto puede generar largas esperas y una peor experiencia de compra.
-Pérdida de productividad: Al tener empleados dedicados a actividades que podrían automatizarse con un sistema digital, como la gestión de reservas y ventas telefónicas, la tienda está desperdiciando recursos humanos valiosos. El tiempo que dedican a estas tareas podría utilizarse de manera más productiva si la empresa contara con un sistema automatizado para la gestión de pedidos y stock.
-Desmotivación del personal: Los empleados pueden sentirse frustrados por no poder dedicarse a sus tareas principales, lo que puede reducir su motivación y afectar la calidad del servicio que ofrecen en la tienda.]]></markdownProperty>
+4. *Bot de respuesta rápida*: a través de las redes sociales reciben numerosas preguntas recurrentes, que solventarían con un bot que de respuesta a esas cuestiones.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
