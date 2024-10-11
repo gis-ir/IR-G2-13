@@ -6,9 +6,14 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Eldiez es una pequeña empresa local de Madrid formada por 8 personas destacando a Abel Lamelo (CEO) y Miguel Cortés (CM). Está ubicada en C. del Marqués de Valdeiglesias. Cerca de la calle más céntrica de la capital, Gran Vía.  Principalmente se dedican a la venta de camisetas y productos vintage relacionados con el ámbito deportivo, especialmente fútbol y/o streetwear.
+    <markdownProperty name="text" category="detail"><![CDATA[Eldiez es una pequeña empresa local de Madrid formada por 8 personas destacando a Abel Lamelo (CEO) y Miguel Cortés (CM). Está ubicada en C. del Marqués de Valdeiglesias (cerca de la calle más céntrica de la capital, Gran Vía).  
 
-Esta empresa cuenta con una sola tienda física, por el momento no tiene posibilidad de venta online (página web en desarrollo). Aún así, tienen un gran volúmen de clientes y pedidos. Aunque no tengan sitio web suplen esta necesidad temporalmente mediante las redes sociales Tik Tok e Instagram, contando en cada una de ellas con más de diez mil seguidores.
+###¿Qué ofrecen?
+Principalmente se dedican a la venta de camisetas y productos vintage relacionados con el ámbito deportivo, especialmente de fútbol y/o streetwear. 
+Además, son especialistas en artículos de colección, personalización oficial de dorsales y asesoramiento gráfico.
+Cabe destacar que han hecho varias colaboraciones con marcas de renombre como Budweiser, Late Checkout o Forbes.
+
+Esta empresa cuenta con una sola tienda física y por el momento no tiene posibilidad de venta online (página web en desarrollo), aún así, tienen un gran volúmen de clientes y pedidos. Aunque no tengan una plataforma web, suplen esta necesidad temporalmente mediante las redes sociales (Tik Tok e Instagram), contando en cada una de ellas con más de diez mil seguidores.
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
