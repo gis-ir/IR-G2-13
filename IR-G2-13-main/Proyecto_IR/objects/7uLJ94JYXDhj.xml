@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7uLJ94JYXDhj" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-08</dateProperty>
+    <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
+    <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
+    <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
+    <markdownProperty name="text" category="detail"><![CDATA[+ El sistema informático que se implementará proporcionará los siguientes beneficios al negocio:
+
++ El sistema mejorará y facilitará el contacto con marcas y clubes, haciendo más sencilla la adquisición de camisetas para una futura venta.
+
++ Además, la empresa busca atraer más clientes, y el software permitirá la venta online, ampliando el alcance del negocio a una clientela más lejana y mejorando su operatividad.
+
++ El software ofrecerá un control pleno sobre todos los productos, gestionando el stock en el almacén.
+]]></markdownProperty>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
