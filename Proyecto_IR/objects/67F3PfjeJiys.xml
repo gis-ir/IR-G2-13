@@ -6,17 +6,19 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El alcance de este proyecto consiste en documentar los problemas con los que convive la empresa Eldiez. Entre ellos destaca:
+    <markdownProperty name="text" category="detail"><![CDATA[Tienen diversos problemas, la mayoría de ellos derivados de la falta de un sistema de información que facilite las tareas cotidianas de la empresa entre otros. 
 
-+ ####La falta de un sitio web, 
-en el que poder gestionar y tramitar pedidos, además de su almacenamiento.
+Este es un ámbito donde cabe destacar las dificultades en: 
 
-+ ####Problemas de gestión de stock y organización del trabajo.
+### Problemas de gestión de ventas.
+Levar a cabo las ventas sin un sistema de información significa aplicar un mayor esfuerzo humano en cuanto a llevar una gestión del almacén, dificultades para vender u ofrecer todos los artículos tanto de temporada como los retro que tengan disponible en el momento o las devoluciones de las ventas (aunque estas no tengan que ser en tienda, hay que comunicarse con la tienda por teléfono o redes sociales). 
 
-+ ####Anunciar eventos y drops.
+### Anunciar eventos especiales y drops.
+En este aspecto el problema que tiene la empresa se basa en cómo los clientes pueden reservar los drops y comprarlos. Al no disponer de un sitio web donde cada usuario pueda hacer su compra individualmente, es necesario que los clientes contacten lo más rápido posible por teléfono o redes sociales (en el caso que le interese el drop que sale a venta), lo que conlleva una gran cantidad de mensajes y llamadas simúltaneas que no puede afrontar el personal.
 
- + ####Bot de respuesta rápida
 
+### Repetición de preguntas sobre información.
+Al tener que contestar manualmente a las preguntas de los clientes, suelen ver repetidamente las mismas cuestiones, como las medidas de camiseta, corte, información sobre los dorsales, etc. Por lo que sería de conveniencia incorporar un bot de respuesta rápida que ayude a esta tarea y dar respuestas a los clientes sin que los empleados tengan que invertir tanto tiempo en responder individualemte a cada cliente.
 
 Todo esto se detallará en profundidad más adelante y se intentará dar una solución. Cabe mencionar que dicha solución será documentada pero no implementada.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
