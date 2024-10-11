@@ -6,16 +6,16 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[### Problemas de gestión de ventas.
-Llevar a cabo las ventas sin un sistema de información significa aplicar un mayor esfuerzo humano en cuanto diferentes tareas como llevar la gestión del almacén, dificultades para vender u ofrecer todos los artículos, tanto de temporada como los retro que tengan disponible en el momento, o las devoluciones de las ventas (aunque estas no tengan que ser en tienda, hay que comunicarse con la tienda por teléfono o redes sociales). 
+    <markdownProperty name="text" category="detail"><![CDATA[1. *Falta de sitio web:*
+ La empresa carece de una plataforma digital para vender sus productos, lo que limita su capacidad de llegar a un público más amplio. La venta de camisetas se realiza únicamente de manera presencial, lo que reduce el alcance de la tienda y deja sin atender a clientes potenciales que prefieren comprar por internet. Otro aspecto a tener en cuenta son las devoluciones y el control de las reservas y pedidos. También requerirían la facilidad para anuncios de eventos y drops en el sitio web 
 
-### Anunciar eventos especiales y drops.
-En este aspecto el problema que tiene la empresa se basa en cómo los clientes pueden reservar los drops y comprarlos. Al no disponer de un sitio web donde cada usuario pueda hacer su compra individualmente, es necesario que los clientes contacten lo más rápido posible por teléfono o redes sociales (en el caso que le interese el drop que sale a venta), lo que conlleva una gran cantidad de mensajes y llamadas simúltaneas que no puede afrontar el personal.
+2. *Problemas con la gestión de stock:* 
+La empresa no cuenta con un sistema automatizado que controle el almacén en tiempo real. Es complicado saber qué productos están disponibles o agotados.
 
-### Repetición de preguntas sobre información.
-Al tener que contestar manualmente a las preguntas de los clientes, suelen ver con frecuencia las mismas cuestiones, como las medidas de camiseta, corte, información sobre los dorsales, etc. Por lo que los empleados tienen que invertir mucho tiempo en responder individualmente a cada cliente.
+3. *Problemas con la gestión de los empleados:* 
+Los empleados que originalmente estaban contratados para trabajar como dependientes en la tienda física asumen roles adicionales, provocando que algunas tareas se vean mermadas en cuanto a experiencias de usuarios.
 
-]]></markdownProperty>
+4. *Bot de respuesta rápida*: a través de las redes sociales reciben numerosas preguntas recurrentes, que solventarían con un bot que de respuesta a esas cuestiones.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
