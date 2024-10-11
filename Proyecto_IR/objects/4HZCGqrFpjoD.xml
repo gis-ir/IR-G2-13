@@ -8,7 +8,9 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <stringProperty name="role" category="detail"><![CDATA[Alumno]]></stringProperty>
     <enumProperty name="category" category="detail" choices="tbd customer developer user">developer</enumProperty>
-    <traceProperty name="works-for" category="detail" acceptedTargets="organization" traceType=":Proteus-works-for"/>
+    <traceProperty name="works-for" category="detail" acceptedTargets="organization" traceType=":Proteus-works-for">
+      <trace target="4wKM5gszvag4" traceType=":Proteus-works-for"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
