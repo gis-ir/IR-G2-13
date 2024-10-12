@@ -6,13 +6,13 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[El alcance del proyecto que trataremos se basará en poner solución a los principales problemas que derivan de un mal desarrollo en la creación de una página web. 
+    <markdownProperty name="text" category="detail"><![CDATA[Principalmente la mayoría de problemas que vemos vienen derivados de la falta de un sistema de información.
 
-Dado que solamente se comunican con los clientes de forma presencial o en redes sociales, esto hace que una gran cantidad de personas no conozcan todos los servicios que ofrecen (venta de camisetas, venta de articulos de colección, devoluciones, personalización, drops...), por lo que buscaremos una opción donde los clientes se sientan cómodos a la hora de realizar alguna operación relacionada con dichos servicios.
+Comenzamos con la comunicación cliente-Eldiez, dado que solamente cuentan con una tienda física se comunican con los clientes de forma presencial o por redes sociales, esto hace que una gran cantidad de personas no conozcan todos los servicios que ofrecen (venta de camisetas, venta de articulos de colección, devoluciones, personalización, drops...), por lo que buscaremos una opción donde los clientes se sientan cómodos a la hora de realizar alguna operación relacionada con dichos servicios.
 
-Por otro lado, la empresa suele anunciar eventos y drops a los que le quiere dar visibilidad, sería optimo que las personas estén informadas (con las redes sociales se puede obtener un gran alcance en este aspecto) y tengan información más detallada en la web. Una buena solución sería crear una sección en forma de portada donde se anuncien tanto los drops como eventos especiales a los que acudirán u organizarán. 
+Respecto a la comunicaciópn cliente-Eldiez, deberemos tener en cuenta a los clientes que residen en otras comunidades autónomas, esto significa que la comunicación sería mediante medios telefónicos o redes sociales. Los tabajadores observaron la repetición de las mismas preguntas, ya pueden ser dudas de personalización, talla de camisetas o precios, por lo que sería conveniente incorporar un apartado que resuelva dichas respuestas automáticamente agilizando el trabajo al resto de trabajadores.
 
-En último lugar encontramos la repetición de preguntas frecuentes entre los usuarios interesados en los servicios de la empresa, por lo que un bot de respuesta rápida sería la mejor solución (que tenga una batería de preguntas recopilando las que reciben por redes sociales ofreciendoles las soluciones). 
+Por otro lado, como explicamos anteriormente, realizan colaboraciones y eventos para personas conocidas a gran escala. Con esto queremos aplicar una forma para dar una mayor visibilidad  a estos aspectos con la finalidad de que las personas estén informadas (sumando la aportación de las redes sociales) y tengan información más detallada en la web. Dentro de este ámbito también se sumarían los drops (fecha de salida/expiración y unidades que saldrán a la venta).
 
 Cabe mencionar que dicha solución será documentada pero no implementada.
 

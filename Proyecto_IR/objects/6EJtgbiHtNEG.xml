@@ -7,13 +7,16 @@
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[### Problemas de gestión de ventas.
-Llevar a cabo las ventas sin un sistema de información significa aplicar un mayor esfuerzo humano en cuanto diferentes tareas como llevar la gestión del almacén, dificultades para vender u ofrecer todos los artículos, tanto de temporada como los retro que tengan disponible en el momento, o las devoluciones de las ventas (aunque estas no tengan que ser en tienda, hay que comunicarse con la tienda por teléfono o redes sociales). 
+Llevar a cabo las ventas sin un sistema de información significa aplicar un mayor esfuerzo humano en diferentes tareas como llevar la gestión del almacén, dificultades para vender u ofrecer los artículos, tanto de temporada como los retro que tengan disponible en el momento, o las devoluciones de las ventas (aunque estas no tengan que ser en tienda, hay que comunicarse con la tienda por teléfono o redes sociales). 
 
-### Anunciar eventos especiales y drops.
+### Reserva de drops.
 En este aspecto el problema que tiene la empresa se basa en cómo los clientes pueden reservar los drops y comprarlos. Al no disponer de un sitio web donde cada usuario pueda hacer su compra individualmente, es necesario que los clientes contacten lo más rápido posible por teléfono o redes sociales (en el caso que le interese el drop que sale a venta), lo que conlleva una gran cantidad de mensajes y llamadas simúltaneas que no puede afrontar el personal.
 
 ### Repetición de preguntas sobre información.
 Al tener que contestar manualmente a las preguntas de los clientes, suelen ver con frecuencia las mismas cuestiones, como las medidas de camiseta, corte, información sobre los dorsales, etc. Por lo que los empleados tienen que invertir mucho tiempo en responder individualmente a cada cliente.
+
+
+
 
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
