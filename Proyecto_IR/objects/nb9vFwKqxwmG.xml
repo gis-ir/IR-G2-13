@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Eldiez es una pequeña empresa local de Madrid formada por 8 personas destacando a Abel Lamelo (CEO) y Miguel Cortés (CM), ubicada en C/ Marqués de Valdeiglesias (cerca de la calle más céntrica de la capital, Gran Vía).  
+    <markdownProperty name="text" category="detail"><![CDATA[Eldiez es una pequeña empresa local de Madrid formada por 8 personas destacando a Abel Lamelo (CEO) y Miguel Cortés (CM), ubicada en C/ Marqués de Valdeiglesias, cerca de la calle más céntrica de la capital, Gran Vía.  
 
 ###¿Qué ofrecen?
 Principalmente se dedican a la venta de camisetas y productos vintage relacionados con el ámbito deportivo, especialmente de fútbol, y/o streetwear. 
