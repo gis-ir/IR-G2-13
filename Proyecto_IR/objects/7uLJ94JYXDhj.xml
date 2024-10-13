@@ -6,10 +6,10 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Buscaremos establecer un esquema de la página web, cuya funcionalidad será dar facilidades a los usuarios y hacer un trabajo más limpio y organizado para los trabajadores de Eldiez. 
+    <markdownProperty name="text" category="detail"><![CDATA[Buscaremos establecer un esquema de una página web, cuya funcionalidad será dar facilidades a los usuarios y hacer un trabajo más limpio y organizado para los trabajadores de Eldiez. 
 El sistema de información que se busca implementar aportará los siguientes beneficios al negocio:
 
-+ Dar una mayor visión a los drops futuros de la tienda , dar visibililiad a los eventos especiales que acudirán u organizarán y anunciar futuras colaboraciones (en el caso que quieran hacerlas públicas). 
++ Dar una mayor visión a los drops futuros de la tienda, dar visibililiad a los eventos especiales a los que acudirán u organizarán, y anunciar futuras colaboraciones, en el caso que quieran hacerlas públicas. 
 
 + Además, como empresa emergente y con gran éxito, busca atraer más clientes y el software permitirá la venta online, ampliando el alcance del negocio a una clientela más lejana y mejorando su conectividad.
 

@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <stringProperty name="address" category="detail"><![CDATA[C. del Marqués de Valdeiglesias, 2, Centro, 28004 Madrid]]></stringProperty>
+    <stringProperty name="address" category="detail"><![CDATA[C/ Marqués de Valdeiglesias, 2, Centro, 28004 Madrid]]></stringProperty>
     <stringProperty name="phone-number" category="detail"><![CDATA[913 48 35 63]]></stringProperty>
     <stringProperty name="email" category="detail"><![CDATA[]]></stringProperty>
     <urlProperty name="web" category="detail"><![CDATA[(Inoperativa)]]></urlProperty>
