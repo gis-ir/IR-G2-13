@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <stringProperty name="role" category="detail"><![CDATA[Alumno]]></stringProperty>
+    <stringProperty name="role" category="detail"><![CDATA[Ingeniero]]></stringProperty>
     <enumProperty name="category" category="detail" choices="tbd customer developer user">developer</enumProperty>
     <traceProperty name="works-for" category="detail" acceptedTargets="organization" traceType=":Proteus-works-for">
       <trace target="4wKM5gszvag4" traceType=":Proteus-works-for"/>

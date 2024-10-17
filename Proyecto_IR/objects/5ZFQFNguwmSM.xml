@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="nb9vFwKqxwmG" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+<object id="5ZFQFNguwmSM" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-10-10</dateProperty>
+    <dateProperty name=":Proteus-date" category="general">2024-10-17</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>

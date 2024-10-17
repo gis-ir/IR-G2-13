@@ -6,14 +6,16 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[### Problemas de gestión de ventas.
-Llevar a cabo las ventas sin un sistema de información significa aplicar un mayor esfuerzo humano en diferentes tareas como llevar la gestión del almacén, dificultades para vender u ofrecer artículos, tanto de temporada como retro, o las devoluciones de las ventas. Aunque estas no tengan que ser en tienda, hay que comunicarse con la tienda por teléfono o redes sociales. 
+    <markdownProperty name="text" category="detail"><![CDATA[### Gestión de ventas.
+Los trabajadores llevan a cabo la gestión del almacén y stock, y la venta de productos, además de las devoluciones.
+
 
 ### Reserva de drops.
-En este aspecto el problema que tiene la empresa se basa en cómo los clientes pueden reservar los drops y comprarlos. Al no disponer de un sitio web donde cada usuario pueda hacer su compra individualmente, es necesario que los clientes contacten lo más rápido posible por teléfono o redes sociales, en el caso que le interese el drop que sale a la venta, lo que conlleva una gran cantidad de mensajes y llamadas simúltaneas que no puede afrontar el personal.
+Los cientes deben contactar rápidamente con la empresa por redes sociales o teléfono y los empleados de la tienda reservaran estos artículos posteriormente.
 
-### Repetición de preguntas sobre información.
-Al tener que contestar manualmente a las preguntas de los clientes, suelen ver con frecuencia las mismas cuestiones, como las medidas de camiseta, corte, información sobre dorsales, etc. Por lo que los empleados tienen que invertir mucho tiempo en responder individualmente a cada cliente.
+### Contestación de preguntas sobre información.
+Las preguntas por parte de los clientes se resuelven por los empleados vía llamada o porlas redes sociales mediante mensaje directo.
+
 
 
 
