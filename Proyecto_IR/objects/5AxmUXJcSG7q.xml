@@ -1,17 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="3PqiZZFmMWih" classes="general-traceable-object paragraph" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-document section">
+<object id="5AxmUXJcSG7q" classes="meeting" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Paragraph]]></stringProperty>
-    <dateProperty name=":Proteus-date" category="general">2024-10-13</dateProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Meeting]]></stringProperty>
+    <dateProperty name=":Proteus-date" category="detail">2024-10-09</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[ACTA DE REUNIÓN
-Fecha: 09/10/2024
-
-Asistentes: Álvaro Baladrón, Jesús Villalba, Juan Ramírez, Mario Rivas, Javier Ruiz.
-
-Tema: Procesos de negociación y colaboración de Eldiez con empresas y eventos.
+    <timeProperty name="time" category="detail">19:00:00</timeProperty>
+    <stringProperty name="place" category="detail"><![CDATA[LLamada de WhatsApp]]></stringProperty>
+    <traceProperty name="attenders" category="detail" acceptedTargets="stakeholder" traceType=":Proteus-information-source">
+      <trace target="6mXUi6VLLUeg" traceType=":Proteus-information-source"/>
+      <trace target="7ShNkTTB5329" traceType=":Proteus-information-source"/>
+      <trace target="4HZCGqrFpjoD" traceType=":Proteus-information-source"/>
+      <trace target="3qpVxbR8ekJs" traceType=":Proteus-information-source"/>
+      <trace target="44GQvBcysGsA" traceType=":Proteus-information-source"/>
+      <trace target="5RwsuG6arzUZ" traceType=":Proteus-information-source"/>
+      <trace target="3tiinUaqv6y6" traceType=":Proteus-information-source"/>
+    </traceProperty>
+    <markdownProperty name="results" category="results"><![CDATA[Tema: Procesos de negociación y colaboración de Eldiez con empresas y eventos.
 
 Puntos tratados:
 
@@ -58,7 +64,6 @@ Puntos tratados:
 		+ El cliente visita la tienda, elige la camiseta que le gusta, realiza la compra y se lleva el producto.
 
 Eldiez sigue un proceso bien estructurado tanto para la participación en eventos como para la colaboración con empresas en la creación de productos. Además, se mantienen claras las condiciones de pago y se prioriza la personalización y calidad en todos los productos ofrecidos.]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
