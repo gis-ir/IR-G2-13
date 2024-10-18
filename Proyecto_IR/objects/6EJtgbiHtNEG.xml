@@ -6,7 +6,9 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[### Gestión de ventas.
+    <markdownProperty name="text" category="detail"><![CDATA[(PREGUNTAR)
+
+### Gestión de ventas.
 Los trabajadores llevan a cabo la gestión del almacén y stock, y la venta de productos, además de las devoluciones.
 
 

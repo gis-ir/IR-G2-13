@@ -7,7 +7,8 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="description" category="detail"><![CDATA[En este aspecto el problema que tiene la empresa se basa en cómo los clientes pueden reservar los drops y comprarlos. Al no disponer de un sitio web donde cada usuario pueda hacer su compra individualmente, es necesario que los clientes contacten lo más rápido posible por teléfono o redes sociales, en el caso que le interese el drop que sale a la venta, lo que conlleva una gran cantidad de mensajes y llamadas simúltaneas que no puede afrontar el personal.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Al no disponer de un sitio web donde poder comprar individualmente, es necesario que los clientes contacten lo más rápido posible por teléfono o redes sociales, en el caso que le interese el drop que sale a la venta, lo que conlleva una gran cantidad de mensajes y llamadas simúltaneas que es difícil afrontar para 
+el personal.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
