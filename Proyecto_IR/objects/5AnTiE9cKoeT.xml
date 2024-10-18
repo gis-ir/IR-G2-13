@@ -8,13 +8,14 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Principalmente la mayoría de problemas que vemos vienen derivados de la falta de un sistema de información.
 
-Comenzamos con la comunicación cliente-Eldiez, dado que solamente cuentan con una tienda física se comunican con los clientes de forma presencial o por redes sociales, esto hace que una gran cantidad de personas no conozcan todos los servicios que ofrecen (venta de camisetas, venta de articulos de colección, devoluciones, personalización, drops...), por lo que buscaremos una opción donde los clientes se sientan cómodos a la hora de realizar alguna operación relacionada con dichos servicios.
+Los clientes se comunican con ElDiez de forma presencial o por redes sociales, esto hace que una gran cantidad de personas no conozcan todos los servicios que ofrecen (venta de camisetas, venta de articulos de colección, devoluciones, personalización, drops...). 
+Como resultado de esto nos encontramos a que las personas que se ponen en contacto con ElDiez suelen repetir las mismas preguntas (precios, disponibilidad de tallas, personalización, etc).
 
-Respecto a la comunicaciópn cliente-Eldiez, deberemos tener en cuenta a los clientes que residen en lugares alejados de la capital, esto da lugar a que la comunicación sea mediante medios telefónicos o redes sociales. En este aspecto, los tabajadores han observado la repetición de las mismas preguntas, ya sean dudas de personalización, talla de camisetas o precios, por lo que sería conveniente incorporar un apartado que resuelva dichas respuestas automáticamente agilizando el trabajo de  todos ellos.
+Los drops se deben reservar manualmente (por mensaje o vía telefónica), lo que puede llegar a generar problemas de gestión del stock.
+Al ser una tienda que vende tanto camisetas de temporada como reto, les supone un problema la gestión de ventas. Cada camiseta se obtiene de forma distinta. El problema reside en las camisetas retro, estas se compran (principalmente por vinted) y después para declarar las ventas de dichas camisetas tienen que buscar cuando y el precio por el que las compraron, lo que supone una dificultad a la hora de tener organizado los datos (coste, fecha y precio de venta) de cada producto. 
 
-Por otro lado, como explicamos anteriormente, realizan colaboraciones y eventos para personas conocidas a gran escala. Con esto queremos aplicar una forma para dar una mayor visibilidad  a estos aspectos con la finalidad de que las personas estén informadas, sumando a la aportación de las redes sociales y que tengan información más detallada en la web. Dentro de este ámbito también se sumarían los drops (fecha de salida/expiración y unidades que saldrán a la venta).
 
-Cabe mencionar que dicha solución será documentada pero no implementada.
+
 
 
 ]]></markdownProperty>
