@@ -6,7 +6,7 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[Actualmente Eldiez cuenta con 8 trabajadores, entre los que se encuentran Abel Lamelo (CEO) y Miguel Cortés (CM).
+    <markdownProperty name="text" category="detail"><![CDATA[Actualmente Eldiez cuenta con 8 trabajadores, entre los que se encuentran Abel Lamelo (CEO) , Miguel Cortés (CM) , Álvaro responsable de la personalizacion de los dorsales a peticion de los clientes, Ernesto se encarga de los pedidos, Sara se dedica a la atencion al cliente que involucra toda la gestion de peticiones de clientes incluyendo las devoluciones. Estos tres ultimo trabajadores se encuentran de forma presencial en la empresa. Miguel se encarga de las primeras relaciones de proyectos con grandes empresas, Anguel se dedica a los cambios y actualizaciones de la web, Javier se encarga de buscar en plataformas de productos de segundamano y reventas, asegurandose de la autenticidad de las compras. Los ultimos tres trabajadores trabajan de forma semipresencial.
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
