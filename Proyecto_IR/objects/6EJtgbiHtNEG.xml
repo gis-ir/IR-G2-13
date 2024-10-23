@@ -6,7 +6,12 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[### Gestión de ventas y control de stock.
+    <markdownProperty name="text" category="detail"><![CDATA[¿PREGUNTAR SI TIENE QUE PONER LO MISMO QUE EN EL 3.2.2 YA QUE ESTE ES EL PROCESO DE NEGOCIO Y NO LOS PROBLEMAS?
+
+
+La empresa Eldiez se enfrenta a una serie de problemas operacionales derivados de la naturaleza manual de varios de sus procesos, que afectan su capacidad para gestionar eficientemente tanto las ventas como la interacción con los clientes. Estos problemas se centran principalmente en tres áreas clave: la gestión de ventas, la reserva de productos especiales (drops), y la atención al cliente, las cuales detallamos a continuación:
+
+### Gestión de ventas y control de stock.
 Actualmente, el proceso de venta de productos en Eldiez se realiza de manera manual, lo que conlleva un esfuerzo adicional por parte de los empleados y aumenta el riesgo de errores. El seguimiento del stock, la gestión del almacén, y la actualización de productos disponibles se realizan sin sistemas automatizados, lo que complica las tareas de inventario. La falta de un sistema en tiempo real para controlar el stock puede llevar a situaciones de sobrestock (acumulación de productos no vendidos) o de falta de stock (productos agotados que no pueden reponerse a tiempo), lo cual afecta directamente la satisfacción del cliente y los ingresos de la empresa.
 
 ### Reserva de drops.
@@ -15,7 +20,8 @@ Eldiez lanza de manera esporádica "drops". Actualmente, la reserva de estos pro
 ### Contestación de preguntas frecuentes.
 Un volumen considerable del tiempo de los empleados de Eldiez se dedica a responder preguntas repetitivas sobre los productos, como tallas, especificaciones, disponibilidad de artículos o detalles de personalización de dorsales. Esta tarea se lleva a cabo principalmente a través de mensajes directos en redes sociales o llamadas telefónicas.
 
-###Declaración de ventas de camisetas 
+###Declaración de ventas de camisetas
+En la compra de camisetas, destacamos la obtención de las camisetas vintage (son más difíciles de obtener de un orígen legítimo y un posterior comprado), las cuales se deben declarar junto con todos los artículos vendidos en el mismo mes. El problema viene de cuando una camiseta retro se compra y se vende en un futuro lejano, entonces a la hora de declarar se tienen que buscar los tickets de compra (como los adjuntados en el apartado B) entre todas los tickets de las camisetas que se han comprado y vendido en ese intervalo de tiempo.
 
 
 
