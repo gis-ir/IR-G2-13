@@ -51,9 +51,9 @@ expanded_objects:
   5CpyzSM3rLDq: true
   5DiogTajmtni: true
   5GEGMZ7bEXkq: true
-  5KezA8tMFvcy: false
+  5KezA8tMFvcy: true
   5M7xW9nhn9ii: true
-  5MqJGvEhFCnQ: false
+  5MqJGvEhFCnQ: true
   5QzWhVUYLFDz: true
   5Ram3spvCn3T: true
   5RwsuG6arzUZ: true
@@ -75,7 +75,7 @@ expanded_objects:
   6Kp9JmRHt3Ce: true
   6P5wznzRNgDW: true
   6Y4uP8mrsdxQ: true
-  6cqyoCo8VdZc: false
+  6cqyoCo8VdZc: true
   6dgyk8nBCrN3: true
   6inB9HZDFX8i: true
   6iozcTzMjDPS: true
@@ -84,7 +84,7 @@ expanded_objects:
   6qdVCe2ccu5k: true
   6uMuvq86VUYy: true
   6xwAANzDWGsw: true
-  6ygB99NqfKTe: false
+  6ygB99NqfKTe: true
   6znWAkZKkvei: true
   72hnhAWx6wKn: true
   79UBMZWWCzNN: true
@@ -100,7 +100,7 @@ expanded_objects:
   7VCWVXwFxP6Z: true
   7VEen7FJ9UPJ: true
   7VSmnLCpt76Z: true
-  7XZTqFftQn9z: false
+  7XZTqFftQn9z: true
   7Yse6znPZgyZ: true
   7asH9GQ64cLo: true
   7dpBEKxqquNt: true
@@ -108,7 +108,7 @@ expanded_objects:
   7uLJ94JYXDhj: true
   7yB2aYH4rvEA: true
   82kv6dvaqq62: true
-  83zTjjGFz8HA: false
+  83zTjjGFz8HA: true
   885ca2cPdbLh: true
   8CNPjLtQrjUL: true
   8JN9h4wsxJLE: true
@@ -139,5 +139,5 @@ opened_views:
 - default
 selected_document: ers
 selected_objects:
-  ers: 67UQUEzGsPag
+  ers: 5ZFQFNguwmSM
 selected_view: default
