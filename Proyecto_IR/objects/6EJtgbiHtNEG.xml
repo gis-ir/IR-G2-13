@@ -6,15 +6,16 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[### Gestión de ventas.
-Los trabajadores llevan a cabo la gestión del almacén y stock, y la venta de productos, además de las devoluciones.
+    <markdownProperty name="text" category="detail"><![CDATA[La empresa Eldiez se enfrenta a una serie de problemas operacionales derivados de la naturaleza manual de varios de sus procesos, que afectan su capacidad para gestionar eficientemente tanto las ventas como la interacción con los clientes. Estos problemas se centran principalmente en tres áreas clave: la gestión de ventas, la reserva de productos especiales (drops), y la atención al cliente, las cuales detallamos a continuación:
 
+### Gestión de ventas y control de stock.
+Actualmente, el proceso de venta de productos en Eldiez se realiza de manera manual, lo que conlleva un esfuerzo adicional por parte de los empleados y aumenta el riesgo de errores. El seguimiento del stock, la gestión del almacén, y la actualización de productos disponibles se realizan sin sistemas automatizados, lo que complica las tareas de inventario. La falta de un sistema en tiempo real para controlar el stock puede llevar a situaciones de sobrestock (acumulación de productos no vendidos) o de falta de stock (productos agotados que no pueden reponerse a tiempo), lo cual afecta directamente la satisfacción del cliente y los ingresos de la empresa.
 
 ### Reserva de drops.
-Los clientes deben contactar rápidamente con la empresa por redes sociales o teléfono y los empleados de la tienda reservarán estos artículos posteriormente.
+Eldiez lanza de manera esporádica productos especiales y limitados, denominados "drops", que generan un gran interés entre los clientes. Actualmente, la reserva de estos productos se realiza a través de redes sociales o por teléfono, lo que requiere una rápida intervención del personal para gestionar las solicitudes de los clientes. Este proceso puede resultar abrumador debido a la cantidad de mensajes y llamadas simultáneas que deben atenderse en un corto periodo de tiempo, lo que aumenta las probabilidades de que algunas solicitudes no sean gestionadas a tiempo, lo que puede derivar en una mala experiencia del cliente y en la pérdida de oportunidades de venta.
 
 ### Contestación de preguntas sobre información.
-Las preguntas por parte de los clientes se resuelven por los empleados vía llamada o por las redes sociales mediante mensaje directo.
+Un volumen considerable del tiempo de los empleados de Eldiez se dedica a responder preguntas repetitivas sobre los productos, como tallas, especificaciones, disponibilidad de artículos o detalles de personalización de dorsales. Esta tarea se lleva a cabo principalmente a través de mensajes directos en redes sociales o llamadas telefónicas, lo que sobrecarga al personal y ralentiza su capacidad para atender otras tareas. La ausencia de un sistema automatizado que pueda resolver este tipo de consultas de forma rápida y precisa genera una carga de trabajo innecesaria y retrasa la resolución de solicitudes más complejas.
 
 
 
