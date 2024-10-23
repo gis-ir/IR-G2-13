@@ -8,7 +8,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Los objetivos del proyecto son dar solución a una seria de problemas con los que cuenta la empresa Eldiez y documentarlos.
 
-Los problemas ya mencionados anteriormente son: dar visibililiad a eventos especiales, automatización de respuestas a preguntas frecuentes y gestión de ventas.
+Los problemas a groso modo serían: dar visibililiad a eventos especiales, automatización de respuestas a preguntas frecuentes y gestión de ventas.
 
 Por todo esto, el principal objetivo será dar facilidades a los usuarios y hacer un trabajo más limpio y organizado para los trabajadores de Eldiez.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
