@@ -8,7 +8,7 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Miguel se encarga de la gestión de las redes sociales de Eldiez, incluyendo TikTok e Instagram. Su papel es interactuar con los clientes, gestionar la atención al cliente por redes y generar contenido para internet.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Encargado de la gestión de las redes sociales de Eldiez, incluyendo TikTok e Instagram. Su papel es interactuar con los clientes, gestionar la atención al cliente por redes y generar contenido para internet.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

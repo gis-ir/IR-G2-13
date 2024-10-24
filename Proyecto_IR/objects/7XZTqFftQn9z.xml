@@ -8,7 +8,7 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <traceProperty name="participates-in" category="detail" acceptedTargets="business-process" traceType=":Proteus-dependency"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Javier se dedica a buscar artículos de segunda mano y de reventa en plataformas especializadas, asegurando que los productos adquiridos por Eldiez sean auténticos y de alta calidad.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Se dedica a buscar artículos de segunda mano y de reventa en plataformas especializadas, asegurando que los productos adquiridos por Eldiez sean auténticos y de alta calidad.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
