@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<object id="7cbcDJMEvmqG" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
+  <properties>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[Albarán]]></stringProperty>
+    <markdownProperty name="description" category="general"><![CDATA[+ Atributos:
+	+ Número de albarán
+	+ Fecha de emisión
++ Relaciones:
+	+ Contiene uno o más Productos.
+	+ Es emitido por un Proveedor.
+	+ Es recibido por un Trabajador.]]></markdownProperty>
+    <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
+  </properties>
+  <children/>
+</object>
