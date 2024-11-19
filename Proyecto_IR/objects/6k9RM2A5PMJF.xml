@@ -9,7 +9,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <traceProperty name="inherits-from" category="detail" acceptedTargets="system-actor" traceType=":Proteus-dependency"/>
     <traceProperty name="participates-in" category="detail" acceptedTargets="use-case" traceType=":Proteus-dependency"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Este actor representa a un cliente que consulta la página web para ver futuros eventos o reservar drops (limitados), o visita la tienda física para comprar alguno de los productos, así como añadir un dorsal a su camiseta.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Este actor representa a un cliente que consulta la página web para ver futuros eventos o reservar drops (limitados), o visita la tienda física para comprar alguno de los productos, así como personalizar su camiseta.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

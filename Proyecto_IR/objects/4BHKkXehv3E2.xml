@@ -2,12 +2,10 @@
 <object id="4BHKkXehv3E2" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Trabajador]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[+ Atributos:
-	+ Nombre
-	+ Rol (CEO, CM, Otro)
-+ Relaciones:
-	+ Prepara uno o más Pedidos.
-	+ Recibe uno o más Albaranes.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[+ Nombre
++ Rol (CEO, CM, Otro)
++ Prepara uno o más Pedidos.
++ Recibe uno o más Albaranes.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>

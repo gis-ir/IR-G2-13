@@ -9,7 +9,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <traceProperty name="inherits-from" category="detail" acceptedTargets="system-actor" traceType=":Proteus-dependency"/>
     <traceProperty name="participates-in" category="detail" acceptedTargets="use-case" traceType=":Proteus-dependency"/>
-    <markdownProperty name="description" category="detail"><![CDATA[Este actor representa al grupo de trabajadores que se encuentran en la tienda física, los cuales reponden las dudas, añaden dorsales y preparan los envíos de los pedidos online.]]></markdownProperty>
+    <markdownProperty name="description" category="detail"><![CDATA[Este actor representa al grupo de trabajadores de Eldiez, los cuales reponden las dudas, se encargan de la perosnalización y preparan los envíos de los pedidos online.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>

@@ -2,13 +2,11 @@
 <object id="5wNA4A5PPboJ" classes="specific-data" acceptedChildren=":Proteus-none" acceptedParents="information-requirement">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Cliente]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[+ Atributos:
-	+ Nombre
-	+ Correo electrónico
-	+ Teléfono
-	+ Fecha de interacción
-+ Relaciones:
-	+ Realiza uno o más Pedidos.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[+ Nombre
++ Correo electrónico
++ Teléfono
++ Fecha de interacción
++ Realiza uno o más Pedidos.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
