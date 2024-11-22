@@ -43,13 +43,7 @@ Los clientes interactúan con el sistema a través de su interfaz en la capa de 
 Los resultados o tareas generadas son enviados a los trabajadores a través de la capa de presentación del trabajador, desde donde los empleados pueden gestionar las operaciones.
 El sistema utiliza la base de datos para almacenar, consultar y gestionar la información de manera centralizada.
 
-Beneficios:
-
-Modularidad: Cada subsistema tiene responsabilidades claras, lo que facilita el mantenimiento y desarrollo.
-
-Escalabilidad: La separación en capas permite agregar nuevas funcionalidades sin afectar significativamente las existentes.
-
-Reusabilidad: Los subsistemas pueden ser reutilizados en otras implementaciones si es necesario.]]></markdownProperty>
+]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
