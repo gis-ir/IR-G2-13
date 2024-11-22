@@ -6,17 +6,50 @@
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
-    <markdownProperty name="text" category="detail"><![CDATA[La arquitectura del sistema software implementa una arquitectura por capas. Todos los usuarios (clientes de Eldiez) se pueden conectar a nuestro sistema. Está dividido en diferentes capas: 
+    <markdownProperty name="text" category="detail"><![CDATA[La arquitectura representada en el diagrama utiliza una estructura de capas, dividiendo claramente las responsabilidades en diferentes módulos para facilitar la comprensión, el mantenimiento y la escalabilidad del sistema. A continuación, se detalla la descripción de las capas y componentes observados:
 
-- Interfaz de usuario: Permitirá a los usuarios acceder y manipular la información que se les ofrece dependiendo de su jerarquía dentro de la organización, ésta estará relacionada con la capa lógica de negocio.
+1. Capa de Presentación del Cliente:
 
-- Lógica de negocio: Esta parte es la que se encarga básicamente de las funciones y operaciones del negocio. Estas operaciones se dividen en 4 subsistemas:
-	- Subsistema de Gestión de Pedidos
-	- Subsistema de Gestión de Drops
-	- Subsistema de Creación de Eventos
-	- Subsistema de Resolución de Dudas
+Actor: Cliente
 
-- BBDD: La base de datos será una base de datos relacional en la que se almacenará la informaión relevante, los datos de los productos, los pedidos, los clientes, etc.]]></markdownProperty>
+Componente: Interfaz de cliente
+
+Esta capa permite que los clientes interactúen con el sistema. Proporciona una interfaz gráfica o visual a través de la cual los usuarios (clientes) pueden realizar operaciones, como consultas o solicitudes.
+Actúa como un punto de entrada hacia la lógica del sistema.
+
+2. Capa de Lógica de Negocios:
+
+Contiene la lógica central del sistema y está formada por varios subsistemas especializados, cada uno con una funcionalidad específica:
+Subsistema de Gestión de Pedidos: Maneja todas las operaciones relacionadas con los pedidos realizados por los clientes.
+Subsistema de Gestión de Grupos: Se encarga de administrar la creación, modificación y eliminación de grupos relacionados con el sistema.
+Subsistema de Creación de Eventos: Diseñado para gestionar la creación y programación de eventos.
+Subsistema de Resolución de Dudas: Permite a los usuarios resolver inquietudes o problemas mediante un flujo de consultas y respuestas.
+
+3. Capa de Presentación del Trabajador:
+
+Actor: Trabajador
+
+Componente: Interfaz de trabajador
+Sirve como una interfaz para que los trabajadores accedan a la información generada por la lógica de negocios. Desde aquí, los trabajadores pueden revisar, procesar y dar seguimiento a las solicitudes y acciones iniciadas en el sistema.
+
+4. Interacción con la Base de Datos (SGBD):
+
+La lógica de negocios interactúa directamente con el Sistema de Gestión de Base de Datos (SGBD), que actúa como el repositorio central de la información.
+Este componente almacena y gestiona los datos relacionados con pedidos, eventos, grupos y cualquier otra información requerida por el sistema.
+
+5. Flujo General:
+
+Los clientes interactúan con el sistema a través de su interfaz en la capa de presentación del cliente. Estas interacciones son procesadas por la capa de lógica de negocios, que distribuye las solicitudes a los subsistemas correspondientes.
+Los resultados o tareas generadas son enviados a los trabajadores a través de la capa de presentación del trabajador, desde donde los empleados pueden gestionar las operaciones.
+El sistema utiliza la base de datos para almacenar, consultar y gestionar la información de manera centralizada.
+
+Beneficios:
+
+Modularidad: Cada subsistema tiene responsabilidades claras, lo que facilita el mantenimiento y desarrollo.
+
+Escalabilidad: La separación en capas permite agregar nuevas funcionalidades sin afectar significativamente las existentes.
+
+Reusabilidad: Los subsistemas pueden ser reutilizados en otras implementaciones si es necesario.]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
