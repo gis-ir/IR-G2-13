@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="3fPQBhsqEPYJ" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+<object id="3u9Hx9qYpmhU" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[El trabajador imprime el albarán y lo envía junto con el pedido.]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El sistema le muestra las respuestas a esas preguntas ]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
