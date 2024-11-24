@@ -15,7 +15,7 @@ En el apartado de Eventos se muestra una pantalla donde aparece la localización
 Por otro lado tenemos RetroShirts y NewSeason. En ambos apartados encontramos una selección de camisetas (retro y actuales, correspondientemente) con su respectivo nombre y valoración. Al seleccionar una camiseta lleva a las especificaciones de compra, en este apartado el cliente podrá seleccionar la talla de la camiseta y la cantidad. También podrá añadir personalizaciones, si el cliente lo desea. Una vez realizada las especificaciones añadimos al carrito los productos que hemos seleccionado para poder revisarlo antes de pagar. A la hora del pago,  se le redigirá a una pestaña de pago para meter los datos del cliente y de la tarjeta. Posteriormente podrá descargar la factura del pedido.
 El proceso de compra de drops se realizará de la misma manera, solo que en la pantalla de especificaciones de compra no se podrá escoger talla del producto.
 
-Por último el cliente podrá tendrá un apartado de FAQs, donde aparecerá una recopilación de las preguntas más frecuentes con la respuesta de cada una.
+Por último el cliente tendrá un apartado de FAQs, donde aparecerá una recopilación de las preguntas más frecuentes con la respuesta de cada una.
 
 **Trabajadores:** Una vez iniciada sesión como trabajadores aparecerá una pantalla parecida a Home, pero específica para los trabajadores. Es una interfaz sencilla donde diferenciaremos los siguientes apartados:
 

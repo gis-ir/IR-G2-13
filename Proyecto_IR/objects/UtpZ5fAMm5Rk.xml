@@ -31,7 +31,7 @@ Subsistema de Resolución de Dudas: Permite a los usuarios resolver inquietudes 
 
 Actor: Trabajador
 
-Componente: Interfaz de trabajador
+Componente: Interfaz de trabajador.
 Sirve como una interfaz para que los trabajadores accedan a la información generada por la lógica de negocios. Desde aquí, los trabajadores pueden revisar, procesar y dar seguimiento a las solicitudes y acciones iniciadas en el sistema.
 
 **Persistencia(Interacción con la Base de Datos)**
