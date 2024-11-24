@@ -12,7 +12,11 @@
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">validated</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="5o52t2QvcPbi" traceType=":Proteus-dependency"/>
+      <trace target="6zPF8uEt2Ztn" traceType=":Proteus-dependency"/>
+      <trace target="6Rxa7K9H3iRF" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[- Ante una falla del sistema, debe recuperarse en menos de 5 minutos. 
 - Además, los datos en proceso (como un pedido) no deben perderse.]]></markdownProperty>
   </properties>

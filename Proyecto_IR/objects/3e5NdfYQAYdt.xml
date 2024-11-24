@@ -12,7 +12,11 @@
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">medium</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
     <enumProperty name="stability" category="priority" choices="tbd low medium high">tbd</enumProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement" traceType=":Proteus-dependency">
+      <trace target="6Rxa7K9H3iRF" traceType=":Proteus-dependency"/>
+      <trace target="5iPvmJah6K7h" traceType=":Proteus-dependency"/>
+      <trace target="5o52t2QvcPbi" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[- Las páginas principales como "Inicio", "Productos" y "Carrito" deben cargar en menos de 2 segundos en condiciones normales.
 - Durante picos de tráfico, el tiempo de respuesta no debe superar los 5 segundos.]]></markdownProperty>
   </properties>
