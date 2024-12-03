@@ -8,7 +8,7 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="text" category="detail"><![CDATA[Adjuntamos el link para poder descargar la interfaz de usuario funcional, tanto de clientes como de trabajadores. Recomendamos primero descargar el archivo, posteriormente extraerlo (para obtener todas las dependencias del archivo HTML) y por último abrir el archivo HTML que contendrá dicha interfaz.
 
-https://drive.google.com/file/d/1HSDOdYrvgy48BjkTLh_07E1L1R7ekmwj/view?usp=sharing
+https://drive.google.com/file/d/1NK9q5a2mWtn_Zb0eDSx0P2CPzDxNSsuX/view?usp=sharing
 
 ]]></markdownProperty>
     <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object" traceType=":Proteus-dependency"/>
