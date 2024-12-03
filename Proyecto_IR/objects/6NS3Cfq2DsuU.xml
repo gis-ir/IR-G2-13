@@ -9,7 +9,7 @@
 + Está realizado por un Cliente.
 + Es preparado por un Trabajador.
 + Puede generar una Factura.
-+ Contiene uno o más Productos.]]></markdownProperty>
++ Contiene uno o más Productos (aquí se especifica la cantidad y si se desea o no personalización).]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
