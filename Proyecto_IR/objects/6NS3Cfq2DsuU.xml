@@ -3,9 +3,9 @@
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Pedido]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[+ Fecha del pedido
-+ Estado del pedido (Entregado, Procesando, Recibido)
-+ Método de pago (Efectivo, Tarjeta, Bizum)
-+ Tipo de interacción (Página Web, Redes Sociales, Presencial)
++ Estado del pedido (Entregado, Procesando, Recibido).
++ Método de pago (Efectivo, Tarjeta, Bizum).
++ Tipo de interacción (Página Web, Redes Sociales, Presencial).
 + Está realizado por un Cliente.
 + Es preparado por un Trabajador.
 + Puede generar una Factura.
