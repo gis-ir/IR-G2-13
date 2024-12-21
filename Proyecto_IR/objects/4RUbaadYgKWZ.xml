@@ -12,7 +12,12 @@
       <trace target="65zeSR8cex57" traceType=":Proteus-dependency"/>
     </traceProperty>
     <markdownProperty name="description" category="detail"><![CDATA[Esta clase entidad representa los drops.]]></markdownProperty>
-    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency"/>
+    <traceProperty name="dependencies" category="dependencies" acceptedTargets="general-traceable-object business-requirement software-requirement model-element" traceType=":Proteus-dependency">
+      <trace target="6ztvyjFjyhkb" traceType=":Proteus-dependency"/>
+      <trace target="3Ye6ECAzrF9u" traceType=":Proteus-dependency"/>
+      <trace target="7bezUS9n6DPB" traceType=":Proteus-dependency"/>
+      <trace target="83VKpukxjDPk" traceType=":Proteus-dependency"/>
+    </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children>
