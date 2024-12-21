@@ -9,8 +9,9 @@
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá:
 
-Controlar el inventario en tiempo real, marcando productos como “agotados” automáticamente cuando su stock llegue a cero. 
-Crear listas automáticas de reposición basadas en el stock mínimo establecido. ]]></markdownProperty>
++ Controlar el inventario en tiempo real, marcando productos como “agotados” automáticamente cuando su stock llegue a cero. 
+
++ Crear listas automáticas de reposición basadas en el stock mínimo establecido. ]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">critical</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">high</enumProperty>
     <enumProperty name="status" category="priority" tooltip="status" choices="tbd draft awaiting-qa awaiting-validation validated">tbd</enumProperty>
