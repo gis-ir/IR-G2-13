@@ -8,7 +8,7 @@
     <traceProperty name="authors" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
     <traceProperty name="sources" category="general" acceptedTargets="stakeholder" traceType=":Proteus-information-source"/>
     <markdownProperty name="description" category="detail"><![CDATA[El sistema deberá comportarse de la siguiente forma cuando un trabajador desee registrar un albarán de un proveedor:]]></markdownProperty>
-    <markdownProperty name="precondition" category="pre-post"><![CDATA[El trabajador está registrado en el sistema]]></markdownProperty>
+    <markdownProperty name="precondition" category="pre-post"><![CDATA[El trabajador está registrado en el sistema.]]></markdownProperty>
     <markdownProperty name="postcondition" category="pre-post"><![CDATA[El sistema guarda el nuevo estado de albaranes.]]></markdownProperty>
     <enumProperty name="importance" category="priority" tooltip="importance" choices="tbd critical high medium low optional">tbd</enumProperty>
     <enumProperty name="priority" category="priority" tooltip="priority" choices="tbd high medium low">tbd</enumProperty>
@@ -19,7 +19,7 @@
     </traceProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
-  <children numbered="true">
+  <children>
     <child id="72zZsMoZJoG6"/>
     <child id="3cNdBLRdMTkq"/>
     <child id="Ziyvnnj6WbH9"/>

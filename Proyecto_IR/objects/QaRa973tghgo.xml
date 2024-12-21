@@ -3,9 +3,9 @@
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Empresa]]></stringProperty>
     <markdownProperty name="description" category="general"><![CDATA[+ Nombre de la empresa.
-+ Dirección
-+ Correo electrónico
-+ Teléfono
++ Dirección.
++ Correo electrónico.
++ Teléfono.
 + Puede colaborar con Eldiez para un Producto.]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
