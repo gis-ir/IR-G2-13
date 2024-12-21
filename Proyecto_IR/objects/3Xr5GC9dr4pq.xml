@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <object id="3Xr5GC9dr4pq" classes="general-traceable-object glossary-item" acceptedChildren=":Proteus-none" acceptedParents=":Proteus-any">
   <properties>
-    <stringProperty name=":Proteus-name" category="general"><![CDATA[Copy of CM]]></stringProperty>
+    <stringProperty name=":Proteus-name" category="general"><![CDATA[CM]]></stringProperty>
     <dateProperty name=":Proteus-date" category="general">2024-12-21</dateProperty>
     <stringProperty name="version" category="general"><![CDATA[1.0]]></stringProperty>
     <traceProperty name="created-by" category="general" acceptedTargets="stakeholder" traceType=":Proteus-author"/>
