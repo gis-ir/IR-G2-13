@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<object id="3cEzNEiMncFg" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
+<object id="72zZsMoZJoG6" classes="use-case-step" acceptedChildren=":Proteus-none" acceptedParents="use-case">
   <properties>
     <stringProperty name=":Proteus-name" category="general"><![CDATA[Use case step]]></stringProperty>
-    <markdownProperty name="description" category="general"><![CDATA[Asociar un albarán al pedido (incluye UC-010).]]></markdownProperty>
+    <markdownProperty name="description" category="general"><![CDATA[El trabajador solicita al sistema acceder al apartado albaranes]]></markdownProperty>
     <markdownProperty name="comments" category="comments"><![CDATA[]]></markdownProperty>
   </properties>
   <children/>
